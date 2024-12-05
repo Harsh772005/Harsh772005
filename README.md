@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:harshbhanushali.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="www.linkedin.com/in/harshbhanushali7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://drive.google.com/file/d/1RK4hci_m0x7lvhQgD7cKQZAMYyyEgUFp/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1yUYgS4ZiP0XXPZ4v72ozbWFd2L0HP1Q2/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume">
   </a>
 </p>
@@ -13,9 +13,11 @@
 ### 👨‍💻 About Me
 I am a **3rd-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
 
+```
 - 🏆 **Hackathon Achievements**:
   - **Winner** of 3 hackathons 🥇  
-  - Secured strong ranks in other competitions.  
+  - Secured strong ranks in other competitions.
+```
 
 - **Expertise**:
   - **ML/DL**: Designing and fine-tuning advanced models.
