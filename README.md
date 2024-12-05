@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:harshbhanushali.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.linkedin.com/in/harshbhanushali7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/harsh-bhanushali-439790253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://drive.google.com/file/d/1yUYgS4ZiP0XXPZ4v72ozbWFd2L0HP1Q2/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume">
   </a>
@@ -85,7 +85,7 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 ### ✉️ Let's Connect!
 
 - **Email**: [harshbhanushali.ai@gmail.com](mailto:harshbanushali.ai@gmail.com)  
-- **LinkedIn**: [Sneh Shah](www.linkedin.com/in/harshbhanushali7)  
+- **LinkedIn**: [Harsh Bhanushali](https://www.linkedin.com/in/harsh-bhanushali-439790253/)  
 
 <p align="center">
   <i>“AI isn’t just about machines; it’s about solving problems and building the future together.”</i>
