@@ -13,19 +13,14 @@
 ### 👨‍💻 About Me
 I am a **3rd-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
 
-```
-- 🏆 **Hackathon Achievements**:
-  - **Winner** of 3 hackathons 🥇  
-  - Secured strong ranks in other competitions.
-```
 
 - **Expertise**:
   - **ML/DL**: Designing and fine-tuning advanced models.
   - **AI Applications**: NLP, Computer Vision, Recommender Systems, Agentic Workflows.
-  - **APIs**: Building scalable APIs with Flask.
+  - **APIs**: Building scalable APIs with Flask and Fast API.
   - **LLMs**: Fine-tuning and deploying large language models.
 
-- 🌱 **Currently Learning**: Cloud Computing ☁️
+- 🌱 **Currently Learning**: Deep Learning and Generative AI ☁
 
 ---
 
@@ -46,31 +41,34 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 ### 🛠️ What I Can Help With
 - **Building AI Pipelines**: From data preprocessing to deployment.  
 - **Fine-Tuning AI Models**: Tailoring solutions to specific domains.  
-- **MLOps**: Implementing workflows for model deployment and monitoring.  
+<!-- - **MLOps**: Implementing workflows for model deployment and monitoring.  -->
 - **AI for Real-World Applications**: Creating impactful solutions using the latest AI trends.  
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!--
+<p align="center"> -->
   <!-- GitHub Stats -->
+  <!--
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Sneh-T-Shah&show_icons=true&theme=dracula" 
     alt="Sneh's GitHub Stats" 
   />
 </p>
 
-<p align="center">
+<p align="center">-->
   <!-- GitHub Streak Stats -->
+  <!--
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" 
     alt="GitHub Streak Stats for Sneh" 
   />
 </p>
-
+-->
 ---
-
+<!--
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -81,13 +79,13 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
     />
   </a>
 </p>
-
+-->
 ---
 
 ### ✉️ Let's Connect!
 
-- **Email**: [snehs5483@gmail.com](mailto:snehs5483@gmail.com)  
-- **LinkedIn**: [Sneh Shah](https://www.linkedin.com/in/sneh-shah-b26a9825b/)  
+- **Email**: [harshbhanushali.ai@gmail.com](mailto:harshbanushali.ai@gmail.com)  
+- **LinkedIn**: [Sneh Shah](www.linkedin.com/in/harshbhanushali7)  
 
 <p align="center">
   <i>“AI isn’t just about machines; it’s about solving problems and building the future together.”</i>
