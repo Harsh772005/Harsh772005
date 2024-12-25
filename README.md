@@ -88,5 +88,5 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 - **LinkedIn**: [Harsh Bhanushali](https://www.linkedin.com/in/harsh-bhanushali-439790253/)  
 
 <p align="center">
-  <i>“AI isn’t just about machines; it’s about solving problems and building the future together.”</i>
+  <i>“AI is not just a tool; it's a bridge to innovation, transforming ideas into reality and shaping a smarter future.”</i>
 </p>
