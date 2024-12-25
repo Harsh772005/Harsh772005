@@ -16,7 +16,7 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 
 - **Expertise**:
   - **ML/DL**: Designing and fine-tuning advanced models.
-  - **AI Applications**: NLP, Computer Vision, Recommender Systems, Agentic Workflows.
+  - **AI Applications**: NLP, Computer Vision, Recommender Systems.
   - **APIs**: Building scalable APIs with Flask and Fast API.
   - **LLMs**: Fine-tuning and deploying large language models.
 
