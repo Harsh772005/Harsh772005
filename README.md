@@ -44,7 +44,9 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 <!-- - **MLOps**: Implementing workflows for model deployment and monitoring.  -->
 - **AI for Real-World Applications**: Creating impactful solutions using the latest AI trends.  
 
+<!--
 ---
+-->
 <!--
 
 ### 📈 GitHub Stats
