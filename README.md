@@ -45,9 +45,10 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 - **AI for Real-World Applications**: Creating impactful solutions using the latest AI trends.  
 
 ---
+<!--
 
 ### 📈 GitHub Stats
-
+-->
 <!--
 <p align="center"> -->
   <!-- GitHub Stats -->
@@ -66,8 +67,11 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
     alt="GitHub Streak Stats for Sneh" 
   />
 </p>
--->
----
+
+--- 
+--->
+
+
 <!--
 ### 🏆 GitHub Trophies
 
