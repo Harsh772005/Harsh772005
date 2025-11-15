@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **3rd-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
+I am a **4th-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
 
 
 - **Expertise**:
