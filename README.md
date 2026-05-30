@@ -11,16 +11,18 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **4th-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
 
+I am an **Artificial Intelligence and Machine Learning graduate** with a keen interest in building innovative AI solutions and solving real-world challenges using cutting-edge technologies.
 
-- **Expertise**:
-  - **ML/DL**: Designing and fine-tuning advanced models.
-  - **AI Applications**: NLP, Computer Vision, Recommender Systems.
-  - **APIs**: Building scalable APIs with Flask and Fast API.
-  - **LLMs**: Fine-tuning and deploying large language models.
+* **Expertise**:
 
-- 🌱 **Currently Learning**: Deep Learning and Generative AI ☁
+  * **ML/DL**: Designing and fine-tuning advanced models.
+  * **AI Applications**: NLP, Computer Vision, Recommender Systems.
+  * **APIs**: Building scalable APIs with Flask and FastAPI.
+  * **LLMs**: Fine-tuning and deploying large language models.
+
+* 🌱 **Currently Exploring**: Generative AI, AI Agents, and Advanced Deep Learning ☁
+
 
 ---
 
