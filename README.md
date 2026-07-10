@@ -93,9 +93,9 @@ I am an **AI/ML Engineer** specializing in **Generative AI, LLM Inference Optimi
 ### 🎓 Education
 
 **B.Tech in Artificial Intelligence & Machine Learning**
-*Charotar University of Science and Technology (CHARUSAT)* | 2021 – 2025
-- **CGPA**: 9.04 / 10.0
-- **Final Year Project**: Human Detection & Counting using YOLOv8 (Published at ICRAIC 2024)
+*Charotar University of Science and Technology (CHARUSAT)* | 2022 – 2026
+- **CGPA**: 9.12 / 10.0
+- **Final Year Project**: AI Based Healthcare NLP System for Clinical Speech Recognition and SOAP notes Generation
 
 ---
 
