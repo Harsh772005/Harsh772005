@@ -1,5 +1,5 @@
 <h1 align="center">Harsh Bhanushali</h1>
-<h3 align="center">AI Engineer @ Smart Government Technology LLC | LLM Optimization & Production Deployment</h3>
+<h3 align="center">AI Engineer @ Smart Government Technology LLC (Pulscribe.ai) | LLM Optimization & Production Deployment</h3>
 
 <p align="center">
   <a href="https://harshbhanushali.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-harshbhanushali.in-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -15,7 +15,7 @@
 
 I am an **AI/ML Engineer** specializing in **Generative AI, LLM Inference Optimization, and Production Deployment**. Currently, I work remotely at **Smart Government Technology LLC** (Virginia, USA), architecting a comprehensive, **HIPAA-compliant hospital management platform** that integrates AI-powered medical transcription, EHR/EMR sync, and automated billing workflows.
 
-- 🎓 **B.Tech in AI & ML** at **CHARUSAT** (CGPA: 9.04)
+- 🎓 **B.Tech in AI & ML** at **CHARUSAT** (CGPA: 9.12)
 - ⚡ **Focus Areas:** Scalable Backend Microservices (FastAPI, K8s), LLM inference (vLLM, GPTQ, Marlin kernels), Medical AI (ASR, NLP, RAG) 
 - 🌱 **Exploring:** AI Agents, Multi-Modal Medical AI, Regional Language TTS
 - 💡 **Mission:** Democratizing AI for healthcare and making advanced models accessible on consumer hardware.
