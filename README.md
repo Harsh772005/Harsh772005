@@ -86,7 +86,7 @@ I am an **AI/ML Engineer** specializing in **Generative AI, LLM Inference Optimi
 - 📄 **Research Publication**: *"Enhancing Human Detection and Counting Efficiency Through Deep Learning"* — Published in **AIP Conference Proceedings** (ICRAIC 2024, Scopus & Web of Science indexed).
 - 🥇 **1st Place Winner** – 2024 Solution Challenge (IT-CSPIT) for **SnapVid AI**.
 - 🌐 **Open Source**: Published quantized **MedGemma 27B GPTQ** model on Hugging Face, optimizing high-throughput medical inference (reduced VRAM from 54GB to 15GB).
-- 🎓 **Academic Excellence**: Graduated with a **9.04 CGPA** in B.Tech AI & ML at CHARUSAT.
+- 🎓 **Academic Excellence**: Graduated with a **9.12 CGPA** in B.Tech AI & ML at CHARUSAT.
 
 ---
 
